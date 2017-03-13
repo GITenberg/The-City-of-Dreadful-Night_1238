@@ -1,5 +1,8 @@
 _repo: The-City-of-Dreadful-Night_1238
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thomson, James
@@ -15,6 +18,8 @@ description: This long poem written by Scottish author James Thomson is a notabl
   in sharp contrast to the more popular vision that was advanced in many other Victorian-era
   novels and poems. On another level, the poem is an eloquent description of the despair
   one can fall into after losing one's faith -- whether in a higher power ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1238#The-City-of-Dreadful-Night
 gutenberg_issued: '1998-03-01'
 gutenberg_type: Text
 identifiers:
